@@ -21,7 +21,7 @@
 
 #### If you want the source code of the Android APP, please contact [Kevin Tsai](mailto:coachweichun@gmail.com)
 
-## Reference
+# Reference
 
 #### (1) [Single Shot MultiBox Detector](https://paperswithcode.com/method/ssd)
 #### (2) [You Only Look Once](https://paperswithcode.com/paper/you-only-look-once-unified-real-time-object)
