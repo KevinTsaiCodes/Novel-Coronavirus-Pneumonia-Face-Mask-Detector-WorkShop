@@ -4,7 +4,7 @@
 #### Kevin Tsai, Wei-Chun Tsai
 
 ## Motivation
-#### Facing Coronavirus Pneumonia is a worldwide issue since 2020. Today I made a system that can run on an Android and a Personal Computer as well.
+#### Facing Coronavirus Pneumonia is a worldwide issue since 2020.
 
 ## Programming Skills Used
 #### Python, Kotlin
