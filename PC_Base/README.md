@@ -17,6 +17,7 @@
     conda activate (venv-name)
 ### Deactivate virtual environment
     conda deactivate (venv-name)
+
 # Package Installation
 ### Open Anaconda Prompt/ Anaconda Powershell Prompt/ Terminal
 ### Activate virtual environment
@@ -38,9 +39,20 @@
     pip install -r requirements.txt
 ### End of installation
    Now, you have installed all the required packages of this repository. All you need to do is execute the program of this repository.
-### Run the program
+
+# Neural Network Training
+   Change the path to
+   
+    [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
+### Run the training scriot
+#### python 2
+    python train.py
+#### python 3
+    python3 train.py
+
+# Run the detector program
    Remember to change the path to 
-    
+   
     cd [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
 #### python 3
     python3 detect.py
