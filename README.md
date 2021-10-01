@@ -26,7 +26,10 @@
 #### (1) [Single Shot MultiBox Detector](https://paperswithcode.com/method/ssd)
 #### (2) [You Only Look Once](https://paperswithcode.com/paper/you-only-look-once-unified-real-time-object)
 #### (3) [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
-
+#### (4)[Mask-RCNN](https://paperswithcode.com/paper/mask-r-cnn)
+#### (5) [Deploy machine learning models on mobile and IoT devices](https://www.tensorflow.org/lite)
+#### (6) [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+#### (7) [Develop Android apps with Kotlin](https://developer.android.com/kotlin)
 
 # My Other Workshop
 ### If you love this repository, please star or fork it! Thank you!
