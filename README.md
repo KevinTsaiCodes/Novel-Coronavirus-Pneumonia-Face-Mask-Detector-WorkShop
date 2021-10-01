@@ -17,10 +17,6 @@
 ## The main content of this workshop
 #### The main content of this workshop is showing how nerual networks are trained, learned, and worked.
 
-## Source code of the Android APP
-
-#### If you want the source code of the Android APP, please contact [Kevin Tsai](mailto:coachweichun@gmail.com)
-
 # Reference
 
 #### (1) [Single Shot MultiBox Detector](https://paperswithcode.com/method/ssd)
