@@ -27,5 +27,8 @@
 #### (6) [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 #### (7) [Develop Android apps with Kotlin](https://developer.android.com/kotlin)
 
-# My Other Workshop
+# Star and Fork It!
 ### If you love this repository, please star or fork it! Thank you!
+
+# My Other Workshop
+#### Here is an another workshop which I published in my freshman year. If you love it as well, welcome fork and star it. God Bless!
