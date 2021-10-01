@@ -5,3 +5,5 @@
 
 ## Programming Skills Used
 #### Python, Kotlin
+
+## If you're instested in PC Base, click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-WorkShop/tree/main/PC_Base) to contiune.
