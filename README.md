@@ -31,4 +31,4 @@
 ### If you love this repository, please star or fork it! Thank you!
 
 # My Other Workshop
-#### Here is an another workshop which I published in my freshman year. If you love it as well, welcome fork and star it. God Bless!
+#### [Here](https://github.com/KevinTsaiCodes/nvidia-jetbot-workshop) is an another workshop about jetbot that I published in my freshman year. If you love it as well, welcome fork and star it. God Bless!
