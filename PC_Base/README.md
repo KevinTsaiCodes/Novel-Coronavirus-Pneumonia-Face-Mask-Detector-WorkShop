@@ -41,7 +41,7 @@
 ### Run the program
    Remember to change the path to 
     
-    [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
+    cd [path]/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-Workshop/PC Base
 #### python 3
     python3 detect.py
 #### python 2
