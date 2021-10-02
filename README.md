@@ -15,7 +15,7 @@
 #### If you're instested in Android App, click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-WorkShop/tree/main/Android%20APP) to contiune.
 
 ## The main content of this workshop
-#### The main content of this workshop is showing how nerual networks are trained, learned, and worked.
+#### The main content of this workshop is showing how nerual networks are trained, learned, and worked in face-mask detection. 
 
 # Reference
 
