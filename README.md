@@ -4,7 +4,7 @@
 #### Kevin Tsai, Wei-Chun Tsai
 
 ## Motivation
-#### The coronavirus disease 2019 (COVID-19) is an infectious disease caused by a type of coronavirus known as SARS-CoV-2 that had caused an ongoing pandemic. This topic is associated with repositories that contain code focused around research and awareness of the virus.
+#### The coronavirus disease 2019 (COVID-19) is an infectious disease caused by a type of coronavirus known as SARS-CoV-2 that had caused an ongoing pandemic.
 
 ## Programming Skills Used
 #### Python, Kotlin
