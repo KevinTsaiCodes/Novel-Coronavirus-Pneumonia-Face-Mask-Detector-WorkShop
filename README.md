@@ -32,3 +32,13 @@
 
 # My Other Workshop
 #### [Here](https://github.com/KevinTsaiCodes/nvidia-jetbot-workshop) is an another workshop about jetbot that I published in my freshman year. If you love it as well, welcome fork and star it. God Bless!
+
+# Release Notes
+
+#### 2020-10 Collect Dataset& Image Processing
+
+#### 2020-12 Try Writing Convolution Neural Netorks(CNN)
+
+#### 2021-02 Transfer Learning, MobileNetv2 PC Base Finish
+
+#### 2021-08 Finish Android APP
