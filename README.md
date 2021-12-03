@@ -7,12 +7,7 @@
 #### The coronavirus disease 2019 (COVID-19) is an infectious disease caused by a type of coronavirus known as SARS-CoV-2 that had caused an ongoing pandemic.
 
 ## Programming Skills Used
-#### Python, Kotlin
-
-## Branch of Deployment
-#### If you're instested in PC Base, click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-WorkShop/tree/main/PC_Base) to contiune.
-
-#### If you're instested in Android App, click [here](https://github.com/KevinTsaiCodes/Novel-Coronavirus-Pneumonia-Face-Mask-Detector-WorkShop/tree/main/Android%20APP) to contiune.
+#### Python, OpenCV, SkLearn, TensorFlow, Keras, Matplotlib
 
 ## The main content of this workshop
 #### The main content of this workshop is showing how nerual networks are trained, learned, and worked in face-mask detection. 
