@@ -35,5 +35,3 @@
 #### 2020-12 Try Writing Convolution Neural Netorks(CNN)
 
 #### 2021-02 Transfer Learning, MobileNetv2 PC Base Finished
-
-#### 2021-08 Finished Android APP
